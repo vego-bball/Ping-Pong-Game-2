@@ -1,0 +1,57 @@
+.heading 
+{
+    width: 100%;
+    text-align: left;
+    font-size: 32px;
+}
+
+.heading h3
+{
+    display: inline;
+    font-size: 28px;
+}
+
+.heading button
+{
+    float: right;
+    border: 2px solid white;
+}
+
+.big-image
+{
+    width: 100%;
+}
+
+#start, #status
+{
+    font-size: 22px;
+    color: cyan;
+}
+
+h4
+{
+    background-color: azure;
+    line-height: 2;
+    margin: 0px;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+.instruction_image
+{
+    display: inline-block;
+    width: 45%;
+}
+
+.copy_right_footer {
+    color: dodgerblue;
+    line-height: 3;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background-color: honeydew;
+    bottom: 0;
+}
